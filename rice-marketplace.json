@@ -1,0 +1,37 @@
+{
+  "schema": "ricewm.recipe-marketplace/v1",
+  "name": "Violet Workstation",
+  "version": "1.0.0",
+  "summary": "A shareable RiceWM appearance recipe.",
+  "license": "MIT",
+  "credits": "",
+  "artifact": {
+    "path": "look-agent-violet-workstation.rice.json",
+    "bytes": 15697,
+    "sha256": "2b56bace1bbf5998daaae9b75efbe47b59be8c15b1878b94e09e7846ceb333c3"
+  },
+  "media": [
+    {
+      "role": "icon",
+      "path": "media/icon.webp",
+      "alt": "Violet Workstation recipe icon",
+      "width": 256,
+      "height": 256,
+      "license": "MIT",
+      "credits": "Original RiceWM recipe sharing icon.",
+      "sha256": "87af9e310f001d1ae051e16f5d897e365ca18fc043919f44d690f142e79f45e5",
+      "bytes": 3532
+    },
+    {
+      "role": "screenshot",
+      "path": "media/screenshot-1.webp",
+      "alt": "Violet Workstation — desktop capture with sharing dialogs and menus omitted.",
+      "width": 1518,
+      "height": 761,
+      "license": "Depicted assets retain their original licences",
+      "credits": "RiceWM desktop capture. Wallpaper and other artwork credits are retained in the recipe.",
+      "sha256": "2206aa71af1d46285ebecf126e8d2dfce27bfe35844111a3d7fbb0fd961c57fe",
+      "bytes": 207802
+    }
+  ]
+}

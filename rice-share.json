@@ -1,0 +1,6 @@
+{
+  "schema": "ricewm.shared-rice/v1",
+  "kind": "recipe",
+  "package": "look-agent-violet-workstation.rice.json",
+  "sha256": "2b56bace1bbf5998daaae9b75efbe47b59be8c15b1878b94e09e7846ceb333c3"
+}

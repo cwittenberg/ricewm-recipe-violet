@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "id": "look:agent-violet-workstation",
+  "title": "Violet Workstation",
+  "scope": "appearance",
+  "theme": "agent-violet-workstation.theme",
+  "wallpaper": {
+    "id": "ai-813cacf7-14c1-43f6-8601-6192782d2e31",
+    "name": "Graphite Weave",
+    "source": "/root/.cache/ricewm/theme-assets/d5701e1a9e5db67752e3a3e275c0eda3b9518739828e691add5cda46c3ebdaf6.svg",
+    "type": "image",
+    "mode": "Crop",
+    "sha256": "d5701e1a9e5db67752e3a3e275c0eda3b9518739828e691add5cda46c3ebdaf6",
+    "bytes": 2318
+  },
+  "workspace": 0,
+  "layout": "Default",
+  "arrangement": "Split",
+  "applications": []
+}
